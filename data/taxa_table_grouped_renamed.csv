@@ -1,0 +1,86 @@
+Labels;index;Kingdom;Phylum;Class;Order;Family;Genus;Species;Groupe
+Abiotrophia;ASV32;Bacteria;Firmicutes;Bacilli;Lactobacillales;Aerococcaceae;Abiotrophia;defectiva;2
+Achromobacter;ASV223;Bacteria;Proteobacteria;Gammaproteobacteria;Burkholderiales;Alcaligenaceae;Achromobacter;;1
+Actinobacillus;ASV1468;Bacteria;Proteobacteria;Gammaproteobacteria;Pasteurellales;Pasteurellaceae;Actinobacillus;;2
+Actinomyces;ASV74;Bacteria;Actinobacteriota;Actinobacteria;Actinomycetales;Actinomycetaceae;Actinomyces;naeslundii;1
+Aggregatibacter;ASV1101;Bacteria;Proteobacteria;Gammaproteobacteria;Pasteurellales;Pasteurellaceae;Aggregatibacter;aphrophilus;2
+Alloprevotella;ASV1029;Bacteria;Bacteroidota;Bacteroidia;Bacteroidales;Prevotellaceae;Alloprevotella;;2
+Atopobium;ASV1104;Bacteria;Actinobacteriota;Coriobacteriia;Coriobacteriales;Atopobiaceae;Atopobium;parvulum;1
+Bergeyella;ASV1057;Bacteria;Bacteroidota;Bacteroidia;Flavobacteriales;Weeksellaceae;Bergeyella;;2
+Bifidobacterium;ASV1591;Bacteria;Actinobacteriota;Actinobacteria;Bifidobacteriales;Bifidobacteriaceae;Bifidobacterium;dentium;1
+Burkholderia-Caballeronia-Paraburkholderia;ASV122;Bacteria;Proteobacteria;Gammaproteobacteria;Burkholderiales;Burkholderiaceae;Burkholderia-Caballeronia-Paraburkholderia;;2
+Butyrivibrio;ASV690;Bacteria;Firmicutes;Clostridia;Lachnospirales;Lachnospiraceae;Butyrivibrio;;2
+Campylobacter;ASV1044;Bacteria;Campilobacterota;Campylobacteria;Campylobacterales;Campylobacteraceae;Campylobacter;showae;2
+Capnocytophaga;ASV1013;Bacteria;Bacteroidota;Bacteroidia;Flavobacteriales;Flavobacteriaceae;Capnocytophaga;gingivalis;2
+Cardiobacterium;ASV1167;Bacteria;Proteobacteria;Gammaproteobacteria;Cardiobacteriales;Cardiobacteriaceae;Cardiobacterium;hominis;2
+Catonella;ASV1192;Bacteria;Firmicutes;Clostridia;Lachnospirales;Lachnospiraceae;Catonella;morbi;2
+Centipeda;ASV1098;Bacteria;Firmicutes;Negativicutes;Veillonellales-Selenomonadales;Selenomonadaceae;Centipeda;;2
+Conchiformibius;ASV1059;Bacteria;Proteobacteria;Gammaproteobacteria;Burkholderiales;Neisseriaceae;Conchiformibius;;2
+Corynebacterium;ASV1164;Bacteria;Actinobacteriota;Actinobacteria;Corynebacteriales;Corynebacteriaceae;Corynebacterium;durum;1
+Dialister;ASV1497;Bacteria;Firmicutes;Negativicutes;Veillonellales-Selenomonadales;Veillonellaceae;Dialister;;2
+Dolosigranulum;ASV1064;Bacteria;Firmicutes;Bacilli;Lactobacillales;Carnobacteriaceae;Dolosigranulum;pigrum;2
+Eikenella;ASV1190;Bacteria;Proteobacteria;Gammaproteobacteria;Burkholderiales;Neisseriaceae;Eikenella;corrodens;2
+58,00 F;ASV442;Bacteria;Bacteroidota;Bacteroidia;Bacteroidales;Paludibacteraceae;58,00 F;;2
+Family: Anaerovoracaceae;ASV139;Bacteria;Firmicutes;Clostridia;Peptostreptococcales-Tissierellales;Anaerovoracaceae;;;2
+Family: Neisseriaceae;ASV1183;Bacteria;Proteobacteria;Gammaproteobacteria;Burkholderiales;Neisseriaceae;;;2
+Family: Veillonellaceae;ASV370;Bacteria;Firmicutes;Negativicutes;Veillonellales-Selenomonadales;Veillonellaceae;;;2
+Filifactor;ASV896;Bacteria;Firmicutes;Clostridia;Peptostreptococcales-Tissierellales;Peptostreptococcaceae;Filifactor;alocis;2
+Fusobacterium;ASV1062;Bacteria;Fusobacteriota;Fusobacteriia;Fusobacteriales;Fusobacteriaceae;Fusobacterium;nucleatum;1
+Gemella;ASV100;Bacteria;Firmicutes;Bacilli;Staphylococcales;Gemellaceae;Gemella;morbillorum;1
+Granulicatella;ASV1226;Bacteria;Firmicutes;Bacilli;Lactobacillales;Carnobacteriaceae;Granulicatella;elegans;1
+Haemophilus;ASV1014;Bacteria;Proteobacteria;Gammaproteobacteria;Pasteurellales;Pasteurellaceae;Haemophilus;haemolyticus;1
+Johnsonella;ASV1045;Bacteria;Firmicutes;Clostridia;Lachnospirales;Lachnospiraceae;Johnsonella;ignava;2
+Kingella;ASV1270;Bacteria;Proteobacteria;Gammaproteobacteria;Burkholderiales;Neisseriaceae;Kingella;oralis;2
+Lachnoanaerobaculum;ASV1304;Bacteria;Firmicutes;Clostridia;Lachnospirales;Lachnospiraceae;Lachnoanaerobaculum;cf.;2
+Lactobacillus;ASV82;Bacteria;Firmicutes;Bacilli;Lactobacillales;Lactobacillaceae;Lactobacillus;;1
+Lautropia;ASV1388;Bacteria;Proteobacteria;Gammaproteobacteria;Burkholderiales;Burkholderiaceae;Lautropia;mirabilis;2
+Leptotrichia;ASV101;Bacteria;Fusobacteriota;Fusobacteriia;Fusobacteriales;Leptotrichiaceae;Leptotrichia;buccalis;2
+Megasphaera;ASV1142;Bacteria;Firmicutes;Negativicutes;Veillonellales-Selenomonadales;Veillonellaceae;Megasphaera;micronuciformis;2
+Moraxella;ASV331;Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Moraxellaceae;Moraxella;lincolnii;1
+Neisseria;ASV105;Bacteria;Proteobacteria;Gammaproteobacteria;Burkholderiales;Neisseriaceae;Neisseria;flavescens;1
+Order: Absconditabacteriales_(SR1);ASV1084;Bacteria;Patescibacteria;Gracilibacteria;Absconditabacteriales_(SR1);;;;2
+Order: Clostridia_UCG-014;ASV1471;Bacteria;Firmicutes;Clostridia;Clostridia_UCG-014;;;;2
+Oribacterium;ASV1317;Bacteria;Firmicutes;Clostridia;Lachnospirales;Lachnospiraceae;Oribacterium;asaccharolyticum;2
+Parvimonas;ASV117;Bacteria;Firmicutes;Clostridia;Peptostreptococcales-Tissierellales;Peptostreptococcales-Tissierellales_fa;Parvimonas;;2
+Peptococcus;ASV2216;Bacteria;Firmicutes;Clostridia;Peptococcales;Peptococcaceae;Peptococcus;;2
+Peptostreptococcus;ASV37;Bacteria;Firmicutes;Clostridia;Peptostreptococcales-Tissierellales;Peptostreptococcaceae;Peptostreptococcus;stomatis;2
+Porphyromonas;ASV1009;Bacteria;Bacteroidota;Bacteroidia;Bacteroidales;Porphyromonadaceae;Porphyromonas;endodontalis;1
+Prevotella;ASV1005;Bacteria;Bacteroidota;Bacteroidia;Bacteroidales;Prevotellaceae;Prevotella;histicola;1
+Proteus;ASV153;Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacterales;Morganellaceae;Proteus;;1
+Pseudomonas;ASV1854;Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Pseudomonadaceae;Pseudomonas;;1
+Pseudopropionibacterium;ASV1722;Bacteria;Actinobacteriota;Actinobacteria;Propionibacteriales;Propionibacteriaceae;Pseudopropionibacterium;rubrum;2
+Rothia;ASV11;Bacteria;Actinobacteriota;Actinobacteria;Micrococcales;Micrococcaceae;Rothia;mucilaginosa;1
+Scardovia;ASV354;Bacteria;Actinobacteriota;Actinobacteria;Bifidobacteriales;Bifidobacteriaceae;Scardovia;wiggsiae;2
+Selenomonas;ASV1030;Bacteria;Firmicutes;Negativicutes;Veillonellales-Selenomonadales;Selenomonadaceae;Selenomonas;artemidis;2
+Solobacterium;ASV113;Bacteria;Firmicutes;Bacilli;Erysipelotrichales;Erysipelotrichaceae;Solobacterium;moorei;2
+Staphylococcus;ASV1256;Bacteria;Firmicutes;Bacilli;Staphylococcales;Staphylococcaceae;Staphylococcus;aureus;1
+Stenotrophomonas;ASV109;Bacteria;Proteobacteria;Gammaproteobacteria;Xanthomonadales;Xanthomonadaceae;Stenotrophomonas;maltophilia;1
+Stomatobaculum;ASV110;Bacteria;Firmicutes;Clostridia;Lachnospirales;Lachnospiraceae;Stomatobaculum;longum;2
+Streptobacillus;ASV188;Bacteria;Fusobacteriota;Fusobacteriia;Fusobacteriales;Leptotrichiaceae;Streptobacillus;hongkongensis;2
+Streptococcus;ASV10;Bacteria;Firmicutes;Bacilli;Lactobacillales;Streptococcaceae;Streptococcus;pseudopneumoniae;1
+TM7x;ASV1006;Bacteria;Patescibacteria;Saccharimonadia;Saccharimonadales;Saccharimonadaceae;TM7x;;2
+Tannerella;ASV1120;Bacteria;Bacteroidota;Bacteroidia;Bacteroidales;Tannerellaceae;Tannerella;forsythia;2
+Treponema;ASV1156;Bacteria;Spirochaetota;Spirochaetia;Spirochaetales;Spirochaetaceae;Treponema;socranskii;2
+Veillonella;ASV15;Bacteria;Firmicutes;Negativicutes;Veillonellales-Selenomonadales;Veillonellaceae;Veillonella;dispar;1
+OTHER;ASV753;Bacteria;Firmicutes;Bacilli;Erysipelotrichales;Erysipelotrichaceae;Bulleidia;extructa;3
+OTHER;ASV1682;Bacteria;Patescibacteria;Saccharimonadia;Saccharimonadales;Saccharimonadaceae;Candidatus_Saccharimonas;;3
+OTHER;ASV605;Bacteria;Firmicutes;Bacilli;Lactobacillales;Carnobacteriaceae;Carnobacterium;;3
+OTHER;ASV1406;Bacteria;Proteobacteria;Gammaproteobacteria;Burkholderiales;Comamonadaceae;Comamonas;;3
+OTHER;ASV1703;Bacteria;Proteobacteria;Gammaproteobacteria;Pasteurellales;Pasteurellaceae;Cricetibacter;;3
+OTHER;ASV1244;Bacteria;Actinobacteriota;Actinobacteria;Actinomycetales;Actinomycetaceae;332,00 F;;3
+OTHER;ASV953;Bacteria;Firmicutes;Clostridia;Lachnospirales;Lachnospiraceae;;;3
+OTHER;ASV2255;Bacteria;Proteobacteria;Alphaproteobacteria;Rickettsiales;Mitochondria;;;3
+OTHER;ASV1844;Bacteria;Proteobacteria;Gammaproteobacteria;Pasteurellales;Pasteurellaceae;;;3
+OTHER;ASV1213;Bacteria;Firmicutes;Clostridia;Peptostreptococcales-Tissierellales;Peptostreptococcaceae;;;3
+OTHER;ASV1165;Bacteria;Patescibacteria;Saccharimonadia;Saccharimonadales;Saccharimonadaceae;;;3
+OTHER;ASV121;Bacteria;Actinobacteriota;Actinobacteria;Corynebacteriales;Corynebacteriaceae;Lawsonella;clevelandensis;3
+OTHER;ASV631;Bacteria;Bacteroidota;Bacteroidia;Sphingobacteriales;Lentimicrobiaceae;Lentimicrobium;;3
+OTHER;ASV1260;Bacteria;Firmicutes;Clostridia;Peptostreptococcales-Tissierellales;Anaerovoracaceae;Mogibacterium;;3
+OTHER;ASV651;Bacteria;Firmicutes;Bacilli;Mycoplasmatales;Mycoplasmataceae;Mycoplasma;salivarium;3
+OTHER;ASV1663;Bacteria;Patescibacteria;Gracilibacteria;JGI_0000069-P22;;;;3
+OTHER;ASV1135;Bacteria;Patescibacteria;Saccharimonadia;Saccharimonadales;;;;3
+OTHER;ASV1417;Bacteria;Firmicutes;Clostridia;Peptostreptococcales-Tissierellales;Peptostreptococcaceae;Peptoanaerobacter;;3
+OTHER;ASV938;Bacteria;Firmicutes;Clostridia;Peptostreptococcales-Tissierellales;Peptostreptococcales-Tissierellales_fa;Peptoniphilus;;3
+OTHER;ASV1453;Bacteria;Proteobacteria;Gammaproteobacteria;Burkholderiales;Neisseriaceae;Simonsiella;muelleri;3
+OTHER;ASV1144;Bacteria;Actinobacteriota;Coriobacteriia;Coriobacteriales;Eggerthellaceae;Slackia;exigua;3
+OTHER;ASV584;Bacteria;Patescibacteria;Gracilibacteria;;;;;3
