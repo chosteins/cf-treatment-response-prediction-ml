@@ -17,7 +17,7 @@ This project implements a comprehensive machine learning pipeline to predict nut
 - Multiple compositional data transformations (ALR, CLR, rCLR, ILR, PA, arcsine)
 - Five distinct modeling approaches for comparison
 - Phylogeny-informed GNN using taxonomic hierarchies
-- Rigorous 20-fold cross-validation
+- 20-fold cross-validation
 - Comprehensive evaluation metrics (AUROC, AUPRC, RMSE, MAE)
 
 ## Repository Structure
