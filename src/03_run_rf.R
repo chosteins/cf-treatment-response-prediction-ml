@@ -21,7 +21,7 @@ dir.create(OUTPUT_DIR, showWarnings = FALSE, recursive = TRUE)
 TRANSFORMATIONS <- c("RA", "PA", "ALR", "CLR", "ILR", "rCLR", "arcsine")
 OUTCOMES        <- c("zscore_binary", "zscore_continuous")
 
-NTREES <- 1000
+NTREES <- 500
 SEED   <- 222
 
 # Covariates to force in all models
